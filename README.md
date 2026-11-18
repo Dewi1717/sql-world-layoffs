@@ -76,10 +76,12 @@ ORDER BY tahun, ranking;
 ---
 
 ## Temuan Utama
-<!-- TODO: TULIS ULANG bagian ini dengan kata-kata Anda sendiri (draft dari asisten). -->
-1. **PHK memuncak di 2022 dan semakin cepat di 2023.** Data 2023 baru mencakup Jan – 6 Mar, tapi angkanya sudah 125.677 (78% dari total setahun penuh 2022).
-2. **Perusahaan besar yang sudah IPO paling terdampak.** Tahap Post-IPO menyumbang 53% dari total PHK, dan 5 teratas semuanya perusahaan teknologi besar.
-3. **Pendanaan besar tidak menjamin bertahan.** Ada 116 kejadian PHK 100%, termasuk Britishvolt yang sudah mengumpulkan USD 2,4 miliar.
+1. **Gelombang kedua jauh lebih besar dari gelombang pandemi.** Setelah sempat mereda di 2021 (15.823 orang), PHK melonjak menjadi 160.661 di 2022. Bulan terburuk adalah Januari 2023 dengan 84.714 orang dalam sebulan. Padahal data 2023 baru sampai 6 Maret, jumlahnya sudah mencapai 78% dari total setahun penuh 2022.
+2. **Yang paling banyak mem-PHK justru perusahaan besar yang sudah IPO.** Tahap Post-IPO menyumbang 53% dari seluruh PHK. Lima teratas (Amazon, Google, Meta, Salesforce, Philips) masing-masing mem-PHK 10.000 orang atau lebih.
+3. **Amerika Serikat menyumbang dua pertiga PHK (66,9%),** disusul India (9,4%) dan Belanda (4,5%).
+4. **Pendanaan besar tidak menjamin perusahaan bertahan.** Ada 116 kejadian PHK 100% (perusahaan tutup), termasuk Britishvolt yang sudah mengumpulkan USD 2,4 miliar dan Quibi dengan USD 1,8 miliar.
+
+Analisis lanjutan dengan Python (distribusi, grafik, dan perbandingan hasil SQL vs pandas) ada di [python-world-layoffs](https://github.com/Dewi1717/python-world-layoffs).
 
 ## Keterbatasan
 - 361 baris dibuang karena tidak punya angka PHK sama sekali, jadi total sebenarnya lebih besar.
