@@ -76,7 +76,7 @@ ORDER BY tahun, ranking;
 ---
 
 ## Temuan Utama
-1. **Gelombang kedua jauh lebih besar dari gelombang pandemi.** Setelah sempat mereda di 2021 (15.823 orang), PHK melonjak menjadi 160.661 di 2022. Bulan terburuk adalah Januari 2023 dengan 84.714 orang dalam sebulan. Padahal data 2023 baru sampai 6 Maret, jumlahnya sudah mencapai 78% dari total setahun penuh 2022.
+1. **Gelombang kedua jauh lebih besar dari gelombang pandemi.** Setelah sempat mereda di 2021 (15.823 orang), PHK melonjak menjadi 160.661 di 2022. Bulan terburuk adalah Januari 2023 dengan 84.714 orang dalam sebulan. Data 2023 baru sampai 6 Maret, tetapi jumlahnya sudah mencapai 78% dari total setahun penuh 2022.
 2. **Yang paling banyak mem-PHK justru perusahaan besar yang sudah IPO.** Tahap Post-IPO menyumbang 53% dari seluruh PHK. Lima teratas (Amazon, Google, Meta, Salesforce, Philips) masing-masing mem-PHK 10.000 orang atau lebih.
 3. **Amerika Serikat menyumbang dua pertiga PHK (66,9%),** disusul India (9,4%) dan Belanda (4,5%).
 4. **Pendanaan besar tidak menjamin perusahaan bertahan.** Ada 116 kejadian PHK 100% (perusahaan tutup), termasuk Britishvolt yang sudah mengumpulkan USD 2,4 miliar dan Quibi dengan USD 1,8 miliar.
